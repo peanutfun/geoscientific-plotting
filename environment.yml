@@ -1,0 +1,11 @@
+name: geoplot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cartopy
+  - geopandas
+  - contextily
+  - matplotlib
+  - xarray
+prefix: /Users/ldr.riedel/mambaforge/envs/geoplot
