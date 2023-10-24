@@ -8,4 +8,9 @@ dependencies:
   - contextily
   - matplotlib
   - xarray
+  - jupyter
+  - numpy
+  - netCDF4
+  - pip:
+    - osm-flex
 prefix: /Users/ldr.riedel/mambaforge/envs/geoplot
